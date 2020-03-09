@@ -1,0 +1,98 @@
+[
+  {
+    "nombre": "Parking Las Siervas",
+    "direccion": "C/ Bartolomé Pérez Casas",
+    "plazas": 0,
+    "email": "",
+    "telefono": "968",
+    "web": "",
+    "descripcion": "La tarificación es por minutos o fracciones.",
+    "longitud": -189427.20302113282,
+    "latitud": 4532921.5092973448,
+    "icono": "http://datos.lorca.es/icon/parking.png"
+  },
+  {
+    "nombre": "Lorca Plaza",
+    "direccion": "Antigua Plaza de Abastos 13,14 y 15",
+    "plazas": 212,
+    "email": "lorcaplaza@terra.es",
+    "telefono": "968 471174",
+    "web": "",
+    "descripcion": "La tarificación es por minutos o fracciiones. Abierto todo el año, 24 horas.",
+    "longitud": -189198.94051072054,
+    "latitud": 4533680.8020572355,
+    "icono": "http://datos.lorca.es/icon/parking.png"
+  },
+  {
+    "nombre": "Plaza Colón",
+    "direccion": "Plaza Colon s/n.",
+    "plazas": 315,
+    "email": "",
+    "telefono": "98 442809",
+    "web": "",
+    "descripcion": "La tarificación es por minutos o fracciones. Abierto todo el año, 24 horas.",
+    "longitud": -189135.04312300464,
+    "latitud": 4533310.48689267,
+    "icono": "http://datos.lorca.es/icon/parking.png"
+  },
+  {
+    "nombre": "Menchirón",
+    "direccion": "Alameda Menchirón, frente a la Estación de Autobuses.",
+    "plazas": 250,
+    "email": "",
+    "telefono": "",
+    "web": "",
+    "descripcion": "",
+    "longitud": -188917.52330518339,
+    "latitud": 4533132.0097072609,
+    "icono": "http://datos.lorca.es/icon/parking.png"
+  },
+  {
+    "nombre": "San Vicente",
+    "direccion": "Glorieta de San Vicente 1, acceso por C/ Lope Gisbert",
+    "plazas": 87,
+    "email": "trafico@limusa.es",
+    "telefono": "968441033",
+    "web": "",
+    "descripcion": "La tarificación es por minutos o fracciones. Abierto todo el año, 24 horas.<br>Servicio de préstamo de bicicletas y carritos de la compra a los usuarios del parking.",
+    "longitud": -188917.07956003069,
+    "latitud": 4533806.2593201231,
+    "icono": "http://movilidad.lorca.es/icon/parking-s-vicente.png"
+  },
+  {
+    "nombre": "Pasarela",
+    "direccion": "Plaza Curtidores s/n",
+    "plazas": 600,
+    "email": "info@parkingpasarela.es",
+    "telefono": "968011544",
+    "web": "http://www.parkingpasarela.es",
+    "descripcion": "La tarificación es por minutos o fracciones. Abierto todo el año, 24 horas.",
+    "longitud": -188644.23548809672,
+    "latitud": 4534402.2019176558,
+    "icono": "http://datos.lorca.es/icon/parking.png"
+  },
+  {
+    "nombre": "Huerto de la Rueda",
+    "direccion": "Huerto de la Rueda s/n",
+    "plazas": 184,
+    "email": "trafico@limusa.es",
+    "telefono": "968 441344",
+    "web": "",
+    "descripcion": "La tarificación es por minutos o fracciones. Abierto todo el año, 24 horas.",
+    "longitud": -187914.42490645661,
+    "latitud": 4533490.93126566,
+    "icono": "http://datos.lorca.es/icon/parking.png"
+  },
+  {
+    "nombre": "Parking Lorca Campus Universitario",
+    "direccion": "C/ médico Antonio Pelegrín Medina, nº 2",
+    "plazas": 500,
+    "email": "info@parkinglcu.es",
+    "telefono": "968018259",
+    "web": "http://parkinglcu.es/",
+    "descripcion": "La  tarificación es por fracciones. Max 2€ de 08.00 a 22.00 y de 22.00 a 8.00 misma tarifa max 5€.",
+    "longitud": -187735.43660603763,
+    "latitud": 4534830.04634734,
+    "icono": "http://datos.lorca.es/icon/parking.png"
+  }
+]
